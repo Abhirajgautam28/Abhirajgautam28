@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="your-profile-image-url" alt="Your Name" width="200">
-</p>
-
 # Hi there, I'm [ABHIRAJ GAUTAM] 👋
 
 Welcome to my GitHub profile! I'm a passionate Software Developer who loves to create & deploy codes. Below, you'll find a showcase of my work and interests.
@@ -25,8 +21,6 @@ You can find me on:
 - GitHub: [https://github.com/Abhirajgautam28](GitHub-Icon)
 - LinkedIn: [https://www.linkedin.com/in/abhirajgautam28/](LinkedIn-Icon)
 - Twitter: [https://twitter.com/AbhirajGautam16](Twitter-Icon)
-
-### GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
