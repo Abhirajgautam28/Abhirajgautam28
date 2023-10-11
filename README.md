@@ -2,37 +2,29 @@
   <img src="your-profile-image-url" alt="Your Name" width="200">
 </p>
 
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [ABHIRAJ GAUTAM] 👋
 
-Welcome to my GitHub profile! I'm a passionate [Your Profession] who loves [Your Interests]. Below, you'll find a showcase of my work and interests.
+Welcome to my GitHub profile! I'm a passionate Software Developer who loves to create & deploy codes. Below, you'll find a showcase of my work and interests.
 
 ### About Me
 
-- 🌍 Location: [Your Location]
-- 💼 Occupation: [Your Profession]
-- 🌱 Currently learning: [What you're learning]
-- 💬 Ask me about: [Your areas of expertise]
-
-### My Projects
-
-Here are some of the projects I've worked on:
-
-- [**Project 1**](Link to Project 1): Short project description.
-- [**Project 2**](Link to Project 2): Short project description.
-- [**Project 3**](Link to Project 3): Short project description.
+- 🌍 Location: Dehradun, India.
+- 💼 Occupation: Student
+- 🌱 Currently learning: Bachelor In Technology with specialization in Artificial Intelligence & Machine Learning.
+- 💬 Ask me about: Cloud Computing, Artificial Intelligence, DevOps, Quantum Computing & Neuromorphic Computing.
 
 ### Skills
 
-- 💻 **Programming Languages**: [List of programming languages you're proficient in]
-- 🛠️ **Tools & Technologies**: [List of tools and technologies you use]
+- 💻 **Programming Languages**: [Shell Scripting, C++, Java, Python, Html, Css, Node js, Php]
+- 🛠️ **Tools & Technologies**: [AWS, Azure, Git, Jenkins, Selenium, Docker, Kubernetes, Tensorflow]
 
 ### Let's Connect
 
 You can find me on:
 
-- GitHub: [Your GitHub profile link](GitHub-Icon)
-- LinkedIn: [Your LinkedIn profile link](LinkedIn-Icon)
-- Twitter: [Your Twitter profile link](Twitter-Icon)
+- GitHub: [https://github.com/Abhirajgautam28](GitHub-Icon)
+- LinkedIn: [https://www.linkedin.com/in/abhirajgautam28/](LinkedIn-Icon)
+- Twitter: [https://twitter.com/AbhirajGautam16](Twitter-Icon)
 
 ### GitHub Stats
 
