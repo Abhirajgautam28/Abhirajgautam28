@@ -22,9 +22,9 @@ You can find me on:
 - LinkedIn: [https://www.linkedin.com/in/abhirajgautam28/](LinkedIn-Icon)
 - Twitter: [https://twitter.com/AbhirajGautam16](Twitter-Icon)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhirajgautam28&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajgautam28&layout=compact&theme=radical)
 
 ### Let's Collaborate
 
