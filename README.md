@@ -4,14 +4,14 @@ Welcome to my GitHub profile! I'm a passionate Software Developer who loves to c
 
 ### About Me
 
-- 🌍 Location: Dehradun, India.
+- 🌍 Location: Bangalore, India.
 - 💼 Occupation: Data Scientist Intern
 - 🌱 Currently Holds a Bachelor In Technology with specialization in Artificial Intelligence & Machine Learning.
 - 💬 Ask me about: Cloud Computing, Artificial Intelligence, DevOps, Quantum Computing & Neuromorphic Computing.
 
 ### Skills
 
-- 💻 **Programming Languages**: [Shell Scripting, C++, Java, Python, Html, Css, Node js, Php]
+- 💻 **Programming Languages**: [Shell Scripting, C++, Java, SQL, Python, Html, Css, Node js, Php]
 - 🛠️ **Tools & Technologies**: [AWS, Azure, Git, Jenkins, Selenium, Docker, Kubernetes, Tensorflow]
 
 ### Let's Connect
