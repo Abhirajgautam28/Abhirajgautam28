@@ -1,17 +1,17 @@
 # Hi there, I'm [ABHIRAJ GAUTAM]
 
-Welcome to my GitHub profile! I'm a passionate Software Developer who loves to create & deploy codes. Below, you'll find a showcase of my work and interests.
+Welcome to my GitHub profile! I'm a passionate Software Developer who loves to create & deploy code. Below, you'll find a showcase of my work and interests.
 
 ### About Me
 
 - 🌍 Location: Bangalore, India.
 - 💼 Occupation: Data Scientist Intern
-- 🌱 Currently Holds a Bachelor In Technology with specialization in Artificial Intelligence & Machine Learning.
+- 🌱 Currently holds a Bachelor's in Technology with specialization in Artificial Intelligence & Machine Learning.
 - 💬 Ask me about: Cloud Computing, Artificial Intelligence, DevOps, Quantum Computing & Neuromorphic Computing.
 
 ### Skills
 
-- 💻 **Programming Languages**: [Shell Scripting, C++, Java, SQL, Python, Html, Css, Node js, Php]
+- 💻 **Programming Languages**: [Shell Scripting, C++, Java, SQL, Python, Html, Css, JavaScript, Go, Php]
 - 🛠️ **Tools & Technologies**: [AWS, Azure, Git, Jenkins, Selenium, Docker, Kubernetes, Tensorflow]
 
 ### Let's Connect
