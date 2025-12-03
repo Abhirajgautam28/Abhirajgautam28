@@ -1,33 +1,76 @@
-# Hi there, I'm [ABHIRAJ GAUTAM]
+<!--
+✨ Profile README inspired by Material UI design principles:
+clean, minimal, structured & visually aligned ✨
+-->
 
-Welcome to my GitHub profile! I'm a passionate Software Developer who loves to create & deploy code. Below, you'll find a showcase of my work and interests.
+<h1 align="center">Hi 👋, I'm <span style="color:#1976D2;">Abhiraj Gautam</span></h1>
+<h3 align="center">Software Developer | Cloud & AI Enthusiast</h3>
 
-### About Me
+<div align="center">
 
-- 🌍 Location: Bangalore, India.
-- 💼 Occupation: Data Scientist Intern
-- 🌱 Currently holds a Bachelor's in Technology with specialization in Artificial Intelligence & Machine Learning.
-- 💬 Ask me about: Cloud Computing, Artificial Intelligence, DevOps, Quantum Computing & Neuromorphic Computing.
+🚀 Passionately building scalable systems, intelligent solutions, and production-ready applications.
 
-### Skills
+</div>
 
-- 💻 **Programming Languages**: [Shell Scripting, C++, Java, SQL, Python, Html, Css, JavaScript, Go, Php]
-- 🛠️ **Tools & Technologies**: [AWS, Azure, Git, Jenkins, Selenium, Docker, Kubernetes, Tensorflow]
+---
 
-### Let's Connect
+### 🧑‍💻 About Me
 
-You can find me on:
+- 📍 Based in Bangalore, India  
+- 💼 Data Scientist Intern  
+- 🎓 B.Tech in AI & Machine Learning  
+- 🔭 Exploring: **Cloud Computing, Distributed Systems, DevOps, Quantum & Neuromorphic Computing**  
+- 💬 Ask me about **AI, Cloud, DevOps, and System Design**
 
-- GitHub: [https://github.com/Abhirajgautam28](GitHub-Icon)
-- LinkedIn: [https://www.linkedin.com/in/abhirajgautam28/](LinkedIn-Icon)
-- Twitter: [https://twitter.com/AbhirajGautam16](Twitter-Icon)
+---
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhirajgautam28&show_icons=true&theme=radical)
+### 🛠️ Tech Stack
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajgautam28&layout=compact&theme=radical)
+#### 💻 Programming
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,go,php,bash,html,css" />
+</p>
 
-### Let's Collaborate
+#### ⚙️ DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,azure,git,docker,kubernetes,jenkins,linux,githubactions" />
+</p>
 
-I'm always open to collaboration and eager to learn new things. Whether you have an exciting project in mind or just want to chat, feel free to reach out.
+#### 🤖 AI & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,postgres,mysql,selenium" />
+</p>
 
-**Happy coding!** 😊
+---
+
+### 📈 GitHub Performance
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhirajgautam28&show_icons=true&theme=material-palenight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajgautam28&layout=compact&theme=material-palenight&hide_border=true"/>
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="left">
+<a href="https://github.com/Abhirajgautam28" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github"/>
+</a>
+<a href="https://www.linkedin.com/in/abhirajgautam28/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+<a href="https://twitter.com/AbhirajGautam16" target="_blank">
+  <img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+</div>
+
+---
+
+### 🤝 Let’s Build Together
+
+I love collaborating on impactful tech that makes a difference.  
+Always curious — always learning. 🚀  
+
+> *“Code. Deploy. Scale. Repeat.”*  
