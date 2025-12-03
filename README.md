@@ -1,71 +1,66 @@
-<!-- 🌟 Professional GitHub Profile README -->
+# Hi there, I'm [ABHIRAJ GAUTAM]
 
-# Hi 👋, I'm **Abhiraj Gautam**
+Welcome to my GitHub profile! I'm a passionate Software Developer who loves to create & deploy code. Below, you'll find a showcase of my work and interests.
 
-**Software Developer · AI & Cloud Enthusiast**  
-Bangalore, India  
+### About Me
 
----
+- 🌍 Location: Bangalore, India.
+- 💼 Occupation: Data Scientist Intern
+- 🌱 Currently holds a Bachelor's in Technology with specialization in Artificial Intelligence & Machine Learning.
+- 💬 Ask me about: Cloud Computing, Artificial Intelligence, DevOps, Quantum Computing & Neuromorphic Computing.
 
-## 🔎 About Me
+### Skills
 
-- 🎓 B.Tech in Artificial Intelligence & Machine Learning  
-- 💼 Data Scientist Intern | Competitive Programmer  
-- 🔭 I work on: Cloud-native architectures, AI/ML pipelines, DevOps, scalable systems, and bleeding-edge research (Quantum / Neuromorphic ML)  
-- 💬 Languages & Tools: C++, Python, Java, Go, SQL, Shell scripting, HTML/CSS/JS; AWS, Azure, Docker, Kubernetes, Jenkins, Git, TensorFlow, Selenium  
+- 💻 **Programming Languages**: [Shell Scripting, C++, Java, SQL, Python, Html, Css, JavaScript, Go, Php]
+- 🛠️ **Tools & Technologies**: [AWS, Azure, Git, Jenkins, Selenium, Docker, Kubernetes, Tensorflow]
 
----
+### Let's Connect
 
-## 🧰 Tech Stack & Tools
+You can find me on:
 
-| Category | Technologies |
-|---------|---------------|
-| **Languages** | C++, Python, Java, Go, SQL, Shell, HTML, CSS, JS |
-| **Cloud & DevOps** | AWS, Azure, Docker, Kubernetes, Jenkins, Git |
-| **AI / ML / Automation** | TensorFlow, Selenium, Data-processing & scripting |
+- GitHub: [https://github.com/Abhirajgautam28](GitHub-Icon)
+- LinkedIn: [https://www.linkedin.com/in/abhirajgautam28/](LinkedIn-Icon)
+- Twitter: [https://twitter.com/AbhirajGautam16](Twitter-Icon)
 
----
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhirajgautam28&show_icons=true&theme=radical)
 
-## 🎯 What I Do / What I’m Interested In
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajgautam28&layout=compact&theme=radical)
 
-- Building scalable, cloud-native ML/AI systems  
-- End-to-end deployments: from modeling → containerization → orchestration → CI/CD → production  
-- Research-driven exploration in Neuromorphic & Quantum-inspired computing  
-- Open-source contributions & collaboration on impactful projects  
+### Let's Collaborate
 
----
+I'm always open to collaboration and eager to learn new things. Whether you have an exciting project in mind or just want to chat, feel free to reach out.
 
-## 📂 Featured Projects
+**Happy coding!** 😊
+# Hi there, I'm [ABHIRAJ GAUTAM]
 
-> _Each project below should have its own repository with detailed README, code, and optionally a live demo or screenshot._
+Welcome to my GitHub profile! I'm a passionate Software Developer who loves to create & deploy code. Below, you'll find a showcase of my work and interests.
 
-| Project | What it does / Highlights |
-|---------|---------------------------|
-| **Project-A** | AI/ML pipeline on AWS + Docker + Kubernetes + automated CI/CD |
-| **Project-B** | Competitive programming utilities / template library in C++ & Python — optimized, modular, ready for contests |
-| **Project-C** | Web / Cloud-based tool using Go / JavaScript — scalable backend + clean frontend |
-| *(Add more projects you consider relevant)* | … |
+### About Me
 
----
+- 🌍 Location: Bangalore, India.
+- 💼 Occupation: Data Scientist Intern
+- 🌱 Currently holds a Bachelor's in Technology with specialization in Artificial Intelligence & Machine Learning.
+- 💬 Ask me about: Cloud Computing, Artificial Intelligence, DevOps, Quantum Computing & Neuromorphic Computing.
 
-## 📈 GitHub Stats & Language Usage
+### Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhirajgautam28&show_icons=true&theme=material-palenight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajgautam28&layout=compact&theme=material-palenight&hide_border=true" />
-</p>
+- 💻 **Programming Languages**: [Shell Scripting, C++, Java, SQL, Python, Html, Css, JavaScript, Go, Php]
+- 🛠️ **Tools & Technologies**: [AWS, Azure, Git, Jenkins, Selenium, Docker, Kubernetes, Tensorflow]
 
----
+### Let's Connect
 
-## 🌐 Connect with Me
+You can find me on:
 
-[LinkedIn](https://www.linkedin.com/in/abhirajgautam28/) · [Twitter](https://twitter.com/AbhirajGautam16) · [Email](mailto:your-email@example.com)  
+- GitHub: [https://github.com/Abhirajgautam28](GitHub-Icon)
+- LinkedIn: [https://www.linkedin.com/in/abhirajgautam28/](LinkedIn-Icon)
+- Twitter: [https://twitter.com/AbhirajGautam16](Twitter-Icon)
 
----
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhirajgautam28&show_icons=true&theme=radical)
 
-## 🤝 Open to Collaboration & Opportunities
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajgautam28&layout=compact&theme=radical)
 
-I’m actively looking for full-time/remote roles & interesting projects — especially in Cloud / AI / ML / DevOps.  
-Feel free to reach out if you have something in mind.  
+### Let's Collaborate
 
-> “Code, deploy, scale, repeat.” 🚀
+I'm always open to collaboration and eager to learn new things. Whether you have an exciting project in mind or just want to chat, feel free to reach out.
+
+**Happy coding!** 😊
