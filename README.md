@@ -1,76 +1,71 @@
-<!--
-✨ Profile README inspired by Material UI design principles:
-clean, minimal, structured & visually aligned ✨
--->
+<!-- 🌟 Professional GitHub Profile README -->
 
-<h1 align="center">Hi 👋, I'm <span style="color:#1976D2;">Abhiraj Gautam</span></h1>
-<h3 align="center">Software Developer | Cloud & AI Enthusiast</h3>
+# Hi 👋, I'm **Abhiraj Gautam**
 
-<div align="center">
-
-🚀 Passionately building scalable systems, intelligent solutions, and production-ready applications.
-
-</div>
+**Software Developer · AI & Cloud Enthusiast**  
+Bangalore, India  
 
 ---
 
-### 🧑‍💻 About Me
+## 🔎 About Me
 
-- 📍 Based in Bangalore, India  
-- 💼 Data Scientist Intern  
-- 🎓 B.Tech in AI & Machine Learning  
-- 🔭 Exploring: **Cloud Computing, Distributed Systems, DevOps, Quantum & Neuromorphic Computing**  
-- 💬 Ask me about **AI, Cloud, DevOps, and System Design**
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Programming
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts,go,php,bash,html,css" />
-</p>
-
-#### ⚙️ DevOps & Cloud
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,azure,git,docker,kubernetes,jenkins,linux,githubactions" />
-</p>
-
-#### 🤖 AI & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=opencv,tensorflow,postgres,mysql,selenium" />
-</p>
+- 🎓 B.Tech in Artificial Intelligence & Machine Learning  
+- 💼 Data Scientist Intern | Competitive Programmer  
+- 🔭 I work on: Cloud-native architectures, AI/ML pipelines, DevOps, scalable systems, and bleeding-edge research (Quantum / Neuromorphic ML)  
+- 💬 Languages & Tools: C++, Python, Java, Go, SQL, Shell scripting, HTML/CSS/JS; AWS, Azure, Docker, Kubernetes, Jenkins, Git, TensorFlow, Selenium  
 
 ---
 
-### 📈 GitHub Performance
+## 🧰 Tech Stack & Tools
+
+| Category | Technologies |
+|---------|---------------|
+| **Languages** | C++, Python, Java, Go, SQL, Shell, HTML, CSS, JS |
+| **Cloud & DevOps** | AWS, Azure, Docker, Kubernetes, Jenkins, Git |
+| **AI / ML / Automation** | TensorFlow, Selenium, Data-processing & scripting |
+
+---
+
+## 🎯 What I Do / What I’m Interested In
+
+- Building scalable, cloud-native ML/AI systems  
+- End-to-end deployments: from modeling → containerization → orchestration → CI/CD → production  
+- Research-driven exploration in Neuromorphic & Quantum-inspired computing  
+- Open-source contributions & collaboration on impactful projects  
+
+---
+
+## 📂 Featured Projects
+
+> _Each project below should have its own repository with detailed README, code, and optionally a live demo or screenshot._
+
+| Project | What it does / Highlights |
+|---------|---------------------------|
+| **Project-A** | AI/ML pipeline on AWS + Docker + Kubernetes + automated CI/CD |
+| **Project-B** | Competitive programming utilities / template library in C++ & Python — optimized, modular, ready for contests |
+| **Project-C** | Web / Cloud-based tool using Go / JavaScript — scalable backend + clean frontend |
+| *(Add more projects you consider relevant)* | … |
+
+---
+
+## 📈 GitHub Stats & Language Usage
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhirajgautam28&show_icons=true&theme=material-palenight&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajgautam28&layout=compact&theme=material-palenight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhirajgautam28&show_icons=true&theme=material-palenight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajgautam28&layout=compact&theme=material-palenight&hide_border=true" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect with Me
 
-<div align="left">
-<a href="https://github.com/Abhirajgautam28" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github"/>
-</a>
-<a href="https://www.linkedin.com/in/abhirajgautam28/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="https://twitter.com/AbhirajGautam16" target="_blank">
-  <img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-</div>
+[LinkedIn](https://www.linkedin.com/in/abhirajgautam28/) · [Twitter](https://twitter.com/AbhirajGautam16) · [Email](mailto:your-email@example.com)  
 
 ---
 
-### 🤝 Let’s Build Together
+## 🤝 Open to Collaboration & Opportunities
 
-I love collaborating on impactful tech that makes a difference.  
-Always curious — always learning. 🚀  
+I’m actively looking for full-time/remote roles & interesting projects — especially in Cloud / AI / ML / DevOps.  
+Feel free to reach out if you have something in mind.  
 
-> *“Code. Deploy. Scale. Repeat.”*  
+> “Code, deploy, scale, repeat.” 🚀
