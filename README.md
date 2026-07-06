@@ -21,7 +21,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## - About Me
 
 I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** from Bangalore, India. Currently pursuing a **B.Tech in Artificial Intelligence & Machine Learning**, I enjoy building innovative projects and contributing to the developer community.
 
