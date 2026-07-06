@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a713-fe70-4a97-8291-331d237240f7.gif)](https://github.com/Abhirajgautam28)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there+👋+I'm+Abhiraj+Gautam;Full+Stack+Engineer+%7C+AI+%2F+ML+Specialist;Cloud+Architect+%7C+Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there+👋+I'm+Abhiraj+Gautam;Full+Stack+Developer+%7C+AI+%2F+ML+Enthusiast;Building+Open+Source+Projects" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,14 +10,12 @@
 [![Location](https://img.shields.io/badge/📍-Bangalore%2C%20India-6366F1?style=for-the-badge)](https://github.com/Abhirajgautam28)
 [![Current Role](https://img.shields.io/badge/Role-Data%20Scientist%20Intern-A78BFA?style=for-the-badge&logo=briefcase&logoColor=white)](https://github.com/Abhirajgautam28)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=globe&logoColor=white)](https://github.com/Abhirajgautam28)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-8B5CF6?style=for-the-badge&logo=globe&logoColor=white)](https://github.com/Abhirajgautam28)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirajgautam28/)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-A78BFA?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhirajgautam28)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Abhirajgautam28&style=flat-square&color=A78BFA)](https://github.com/Abhirajgautam28)
 [![GitHub Followers](https://img.shields.io/github/followers/Abhirajgautam28?style=flat-square&label=Followers&color=6366F1)](https://github.com/Abhirajgautam28?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/Abhirajgautam28?style=flat-square&label=Stars&color=8B5CF6)](https://github.com/Abhirajgautam28)
 
 </div>
 
@@ -25,53 +23,53 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Full Stack Software Engineer** and **AI/ML Specialist** driven by the philosophy of building scalable, elegant solutions to complex problems. With expertise spanning cloud architecture, machine learning, and DevOps, I combine theoretical knowledge with practical engineering excellence to deliver enterprise-grade applications.
+I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** from Bangalore, India. Currently pursuing a **B.Tech in Artificial Intelligence & Machine Learning**, I enjoy building innovative projects and contributing to the developer community.
 
-**My Passion:**
-- 🚀 Building production-grade systems with emphasis on performance and reliability
-- 🤖 Advancing AI/ML applications through cutting-edge research and deployment
-- ☁️ Architecting cloud-native solutions leveraging AWS and Azure
-- 📦 Contributing to open-source projects and engineering best practices
-- 💡 Mentoring aspiring engineers and sharing knowledge through technical content
+**My Interests:**
+- 🚀 Full-stack web development and scalable applications
+- 🤖 Machine Learning and Deep Learning applications
+- ☁️ Cloud technologies (AWS, Azure)
+- 🐳 DevOps and containerization
+- 💻 Open-source contribution and community building
+- 🔒 Cybersecurity and secure coding practices
 
 **Open To:**
-- 🤝 Full-time Software Engineering roles
-- 📚 AI/ML Research opportunities
-- 🔄 Collaboration on innovative open-source projects
-- 💬 Technical discussions and knowledge sharing
+- 🤝 Collaboration on interesting projects
+- 📚 Learning and knowledge sharing
+- 🔄 Contributing to open-source initiatives
+- 💬 Technical discussions and feedback
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### **Programming Languages**
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ### **Backend & Databases**
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### **Cloud, DevOps & Tooling**
+### **Cloud & DevOps**
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ### **AI/ML & Data Science**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -79,147 +77,209 @@ I'm a passionate **Full Stack Software Engineer** and **AI/ML Specialist** drive
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
----
-
-## 🧠 AI/ML Expertise
-
-| Domain | Proficiency | Details |
-|--------|------------|---------|
-| **Deep Learning** | Expert | CNNs, RNNs, Transformers, Transfer Learning |
-| **Natural Language Processing** | Advanced | Text Classification, Sentiment Analysis, LLM Integration |
-| **Computer Vision** | Advanced | Image Classification, Object Detection, Segmentation |
-| **Reinforcement Learning** | Intermediate | Q-Learning, Policy Gradient Methods |
-| **Data Engineering** | Advanced | ETL Pipelines, Feature Engineering, Data Preprocessing |
-| **Model Deployment** | Expert | TensorFlow Serving, ONNX, Model Optimization, Edge Deployment |
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
 <details>
-<summary><b>🚀 Project Name – Cloud-Native ML Pipeline</b></summary>
+<summary><b>🚗 Car Price Analysis & Prediction</b></summary>
 
-Production-grade machine learning pipeline with end-to-end automation, scalability, and monitoring for enterprise applications.
+Comprehensive exploratory analysis and machine learning models for predicting used car prices from structured features.
+
+**Repository:** [Car_Price_Analysis](https://github.com/Abhirajgautam28/Car_Price_Analysis)
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | Python, TensorFlow, Kubernetes, PostgreSQL, Redis |
-| **Scale** | Processes 1M+ records daily across distributed nodes |
-| **Performance** | Sub-100ms inference latency with 99.9% uptime |
-| **Security** | TLS encryption, RBAC, secrets management, audit logging |
-| **Impact** | 40% reduction in model deployment time, 99.99% availability |
-| **Repository** | [Explore Project](https://github.com/Abhirajgautam28) |
-
-This project demonstrates production-grade engineering with emphasis on reliability, observability, and scalability. Implements multi-stage CI/CD pipelines, automated testing, and comprehensive monitoring.
+| **Tech Stack** | Python, Pandas, Scikit-learn, Jupyter Notebook |
+| **Key Features** | EDA, Feature Engineering, Model Training & Evaluation |
+| **Models Used** | Regression algorithms for price prediction |
+| **Focus** | Data-driven approach to automotive pricing analysis |
 
 </details>
 
 <details>
-<summary><b>🤖 Project Name – AI-Powered Analytics Engine</b></summary>
+<summary><b>💳 Credit Card Risk Detection</b></summary>
 
-Intelligent real-time analytics platform leveraging advanced ML models for predictive insights and anomaly detection.
+Machine learning project focusing on credit risk detection using multiple data science models and comprehensive visualizations.
+
+**Repository:** [Credit_Card_Risk_Detection](https://github.com/Abhirajgautam28/Credit_Card_Risk_Detection)
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | Python, PyTorch, FastAPI, AWS, Elasticsearch |
-| **Scale** | Processes 500K+ events per second in real-time |
-| **Performance** | 50ms query response time, 98% prediction accuracy |
-| **Security** | End-to-end encryption, multi-tenant isolation, compliance |
-| **Impact** | 60% faster anomaly detection, 35% cost reduction |
-| **Repository** | [Explore Project](https://github.com/Abhirajgautam28) |
-
-Enterprise analytics solution designed for high-volume data ingestion with advanced feature engineering and model serving capabilities.
+| **Tech Stack** | Python, Scikit-learn, Data Visualization |
+| **Dataset** | german_credit_data.csv |
+| **Models** | Classification algorithms for risk assessment |
+| **Application** | Financial risk analysis and prediction |
 
 </details>
 
 <details>
-<summary><b>☁️ Project Name – Microservices Architecture Framework</b></summary>
+<summary><b>🍱 Food Recognition with AI</b></summary>
 
-Scalable microservices framework with containerization, service mesh, and automated deployment orchestration.
+Deep learning project for food image classification and recognition using computer vision techniques.
+
+**Repository:** [Food-Recognition-Task-AI](https://github.com/Abhirajgautam28/Food-Recognition-Task-AI-)
 
 | Aspect | Details |
 |--------|---------|
-| **Stack** | Go, Kubernetes, Docker, Istio, gRPC, PostgreSQL |
-| **Scale** | 50+ microservices, handling 100K concurrent requests |
-| **Performance** | P99 latency <200ms across service mesh |
-| **Security** | mTLS, network policies, RBAC, secrets encryption |
-| **Impact** | 45% reduction in deployment time, improved system reliability |
-| **Repository** | [Explore Project](https://github.com/Abhirajgautam28) |
+| **Tech Stack** | Python, TensorFlow/PyTorch, Computer Vision |
+| **Focus** | CNN-based image classification |
+| **Application** | Food identification from images |
 
-Demonstrates advanced DevOps and cloud-native engineering principles with emphasis on observability and resilience.
+</details>
+
+<details>
+<summary><b>🎨 CycleGAN for Synthetic Image Data</b></summary>
+
+Implementation of CycleGAN architecture for unsupervised image-to-image translation and synthetic data generation.
+
+**Repository:** [CycleGAN-for-Synthetic-Image-Data](https://github.com/Abhirajgautam28/CycleGAN-for-Synthetic-Image-Data)
+
+| Aspect | Details |
+|--------|---------|
+| **Tech Stack** | Python, PyTorch, Deep Learning |
+| **Focus** | Generative Adversarial Networks (GANs) |
+| **Application** | Synthetic image generation and style transfer |
+
+</details>
+
+<details>
+<summary><b>🤖 ChatRaj – AI Software Engineering Collaboration Platform</b></summary>
+
+MERN-stack application integrating AI for project management, real-time collaboration, and AI-assisted code generation.
+
+**Repository:** [Chatraj](https://github.com/Abhirajgautam28/Chatraj)
+
+| Aspect | Details |
+|--------|---------|
+| **Tech Stack** | React, Node.js, MongoDB, Socket.io, Redux, Tailwind CSS |
+| **Features** | Real-time chat, AI code assistance, Project management |
+| **Authentication** | JWT-based secure authentication |
+| **Caching** | Redis integration for performance optimization |
+| **AI Integration** | Google Generative AI for code suggestions |
+
+</details>
+
+<details>
+<summary><b>✈️ Auryvia – AI Trip Planner</b></summary>
+
+AI-powered personalized trip planning application with dynamic itineraries based on budget, interests, and real-time conditions.
+
+**Repository:** [Auryvia](https://github.com/Abhirajgautam28/Auryvia)
+
+| Aspect | Details |
+|--------|---------|
+| **Tech Stack** | TypeScript, React, Node.js, MongoDB |
+| **Features** | Dynamic itinerary generation, Budget optimization, Real-time updates |
+| **AI Integration** | Personalized recommendations and travel planning |
+| **User Experience** | Seamless booking and travel management |
+
+</details>
+
+<details>
+<summary><b>🔬 CT Scan Processing for Pulmonary Analysis</b></summary>
+
+Advanced medical imaging project for processing and analyzing CT scans for pulmonary disease detection.
+
+**Repository:** [Enhanced-CT-Scan-Processing-for-Pulmonary-Analysis](https://github.com/Abhirajgautam28/Enhanced-CT-Scan-Processing-for-Pulmonary-Analysis)
+
+| Aspect | Details |
+|--------|---------|
+| **Tech Stack** | Python, Medical Imaging Libraries, Jupyter Notebook |
+| **Focus** | Image processing and analysis for healthcare |
+| **Application** | Pulmonary disease detection and diagnosis support |
+
+</details>
+
+<details>
+<summary><b>🎓 Few-Shot Learning with CIFAR-100</b></summary>
+
+Few-shot learning implementation demonstrating transfer learning and model adaptation on the CIFAR-100 dataset.
+
+**Repository:** [Few-Shot-Learning-with-CIFAR-100-Dataset](https://github.com/Abhirajgautam28/Few-Shot-Learning-with-CIFAR-100-Dataset)
+
+| Aspect | Details |
+|--------|---------|
+| **Tech Stack** | Python, PyTorch/TensorFlow |
+| **Techniques** | Fine-tuning pre-trained models, Custom model training |
+| **Dataset** | CIFAR-100 (100 object classes) |
+| **Learning Paradigm** | Meta-learning and few-shot classification |
+
+</details>
+
+<details>
+<summary><b>🎬 Video Frame Separator</b></summary>
+
+Python utility for extracting individual frames from video files with frame-by-frame processing capabilities.
+
+**Repository:** [Frame-Separator](https://github.com/Abhirajgautam28/Frame-Separator)
+
+| Aspect | Details |
+|--------|---------|
+| **Tech Stack** | Python, OpenCV |
+| **Purpose** | Video processing and frame extraction |
+| **Application** | Dataset creation for computer vision projects |
+
+</details>
+
+<details>
+<summary><b>👩‍💻 Women Safety Android App</b></summary>
+
+Mobile application focused on women's safety with emergency features and real-time assistance.
+
+**Repository:** [An-Android-App-for-women-safety](https://github.com/Abhirajgautam28/An-Android-App-for-women-safety)
+
+| Aspect | Details |
+|--------|---------|
+| **Tech Stack** | Kotlin/Java, Android SDK |
+| **Focus** | Emergency assistance and safety features |
+| **Platform** | Android mobile application |
 
 </details>
 
 ---
 
-## 💼 Experience
+## 📚 Learning & Coursework Repositories
 
-### **Senior Software Engineer** – Tech Company
-*January 2024 – Present*
-
-Led the architecture and development of scalable backend services supporting millions of daily transactions with focus on performance optimization and system reliability.
-
-- Architected microservices infrastructure reducing latency by 40% through service mesh optimization
-- Implemented comprehensive CI/CD pipelines increasing deployment frequency from daily to hourly
-- Mentored team of 5 engineers on cloud-native development and best practices
-- Spearheaded adoption of infrastructure-as-code reducing provisioning time by 60%
-
-**Skills:** Go, Kubernetes, AWS, PostgreSQL, System Design, DevOps
+- **[DAA](https://github.com/Abhirajgautam28/DAA)** – Design and Analysis of Algorithms (Theory & Practice)
+- **[Data Structures & Algorithms](https://github.com/Abhirajgautam28/data-structures-and-algorithmic-thinking-with-python)** – Python implementations
+- **[CPP](https://github.com/Abhirajgautam28/CPP)** – C++ programming concepts
+- **[6th Semester Coursework](https://github.com/Abhirajgautam28/6thCC)** – CC and CS course materials
 
 ---
 
-### **Data Scientist Intern** – Innovation Lab
-*June 2023 – December 2023*
+## 🔐 Cybersecurity Projects
 
-Developed and deployed machine learning models for predictive analytics and recommendation systems serving enterprise clients.
-
-- Built recommendation engine using collaborative filtering achieving 92% precision
-- Optimized model inference reducing inference time from 500ms to 50ms
-- Created automated ML pipeline for continuous model retraining and validation
-- Collaborated with product team on feature prioritization and model evaluation
-
-**Skills:** Python, TensorFlow, PyTorch, SQL, Data Analysis, Model Deployment
+- **[Brute Force Attack](https://github.com/Abhirajgautam28/Brute-Force-Attack)** – Security vulnerability demonstration
+- **[Cross-Site Scripting (XSS) Attack](https://github.com/Abhirajgautam28/Cross-Site-Scripting-XSS-attack)** – Web security analysis
+- **[DDoS Attack](https://github.com/Abhirajgautam28/Distributed-denial-of-service-DDoS-attack.)** – Network security concepts
 
 ---
 
-## 🏆 Achievements
+## 🌍 Face Reconstruction Project
 
-<div align="center">
+<details>
+<summary><b>🧠 Deep Learning Framework for Face Reconstruction Under Mask</b></summary>
 
-| Recognition | Details |
-|-------------|---------|
-| **Top 1% Developer** | Recognized among elite GitHub contributors globally |
-| **Open Source Leader** | 50K+ stars across maintained projects |
-| **Tech Innovator** | Published 15+ technical articles on engineering excellence |
-| **Community Builder** | Mentored 100+ aspiring engineers through mentorship programs |
+Advanced deep learning project for reconstructing facial features from masked faces using neural networks.
 
-</div>
+**Repository:** [A-Deep-Learning-Framework-to-Reconstruct-Face-under-Mask](https://github.com/Abhirajgautam28/A-Deep-Learning-Framework-to-Reconstruct-Face-under-Mask)
 
----
+| Aspect | Details |
+|--------|---------|
+| **Tech Stack** | Python, TensorFlow/PyTorch, Computer Vision |
+| **Problem** | Face reconstruction from masked images |
+| **Approach** | Deep neural networks and convolutional architectures |
 
-## 📜 Certifications
-
-### **AWS**
-[![AWS Solutions Architect](https://img.shields.io/badge/AWS%20Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Abhirajgautam28)
-[![AWS Developer](https://img.shields.io/badge/AWS%20Developer%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://github.com/Abhirajgautam28)
-
-### **Cloud & DevOps**
-[![Kubernetes Certified](https://img.shields.io/badge/Kubernetes%20%28CKA%29-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://github.com/Abhirajgautam28)
-[![Docker Certified](https://img.shields.io/badge/Docker%20Certified%20Associate-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://github.com/Abhirajgautam28)
+</details>
 
 ---
 
-## 💻 Coding Profiles
+## 🎮 Game Development
 
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Abhirajgautam28)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298C68?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/abhirajgautam28)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/Abhirajgautam28)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/Abhirajgautam28)
-
-</div>
+- **[GeoTerritoryGame](https://github.com/Abhirajgautam28/GeoTerritoryGame)** – Geography-based game in Kotlin
 
 ---
 
@@ -247,43 +307,24 @@ Developed and deployed machine learning models for predictive analytics and reco
 
 ---
 
-## 📈 Contribution Activity
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhirajgautam28&theme=tokyo-night&hide_border=true&bg_color=0D1117&area_color=7C3AED)
-
----
-
-## 🎮 Contribution Snake
-
-![Snake Animation](https://github.com/Abhirajgautam28/Abhirajgautam28/blob/output/github-contribution-grid-snake-dark.svg)
-
----
-
 ## 🎯 Current Focus
 
 ```yaml
 Learning:
-  - Advanced Distributed Systems Architecture
-  - LLM Fine-tuning and Optimization
-  - Quantum Computing Fundamentals
-  - Advanced DevOps & Infrastructure Patterns
+  - Advanced Machine Learning architectures
+  - Full-stack web development best practices
+  - DevOps and cloud technologies
+  - Open-source contribution
 
 Building:
-  - Cloud-native ML Platform
-  - Open-source Kubernetes operators
-  - AI-powered development tools
+  - Web applications with modern tech stacks
+  - ML projects for real-world problems
+  - Utility tools and libraries
 
 Exploring:
-  - Neuromorphic Computing
-  - Edge AI Deployment
-  - Advanced MLOps Frameworks
-  - Serverless Architecture Patterns
-
-Open To:
-  - Senior Engineer Roles
-  - AI/ML Research Positions
-  - Technical Leadership Opportunities
-  - High-impact Open Source Contributions
+  - AI/ML applications in different domains
+  - Cloud-native development
+  - Software engineering best practices
 ```
 
 ---
@@ -292,12 +333,11 @@ Open To:
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhiraj@example.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirajgautam28/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhirajgautam28)
-[![Portfolio](https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=web&logoColor=white)](https://github.com/Abhirajgautam28)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/AbhirajGautam16)
 
-Feel free to reach out for collaboration, mentorship, or technical discussions. I'm always excited to connect with fellow engineers and innovators.
+Feel free to reach out for collaboration, discussions, or learning opportunities!
 
 </div>
 
@@ -305,8 +345,6 @@ Feel free to reach out for collaboration, mentorship, or technical discussions. 
 
 <div align="center">
 
-*"Code is poetry written for machines and read by humans."* – Abhiraj Gautam
-
-[![Footer](https://user-images.githubusercontent.com/74038190/213910845-af37a713-fe70-4a97-8291-331d237240f7.gif)](https://github.com/Abhirajgautam28)
+*"The only way to do great work is to love what you do."* – Steve Jobs
 
 </div>
