@@ -10,9 +10,9 @@
 [![Location](https://img.shields.io/badge/📍-Bangalore%2C%20India-6366F1?style=for-the-badge)](https://github.com/Abhirajgautam28)
 [![Current Role](https://img.shields.io/badge/Role-Data%20Science%20Intern-A78BFA?style=for-the-badge&logo=briefcase&logoColor=white)](https://github.com/Abhirajgautam28)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-8B5CF6?style=for-the-badge&logo=globe&logoColor=white)](https://www.abhirajgautam.in/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirajgautam28/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhirajgautam28)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=globe&logoColor=white)](https://www.abhirajgautam.in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirajgautam28/)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abhirajgautam28)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Abhirajgautam28&style=flat-square&color=A78BFA)](https://github.com/Abhirajgautam28)
 [![GitHub Followers](https://img.shields.io/github/followers/Abhirajgautam28?style=flat-square&label=Followers&color=6366F1)](https://github.com/Abhirajgautam28?tab=followers)
