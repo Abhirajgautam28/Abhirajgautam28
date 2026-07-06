@@ -1,7 +1,7 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/213910845-af37a713-fe70-4a97-8291-331d237240f7.gif)](https://github.com/Abhirajgautam28)
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there+👋+I'm+Abhiraj+Gautam;Full+Stack+Developer+%7C+AI+%2F+ML+Enthusiast;Building+Open+Source+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2000&pause=500&color=A78BFA&center=true&vCenter=true&repeat=true&width=700&lines=Hi+there++I'm+Abhiraj+Gautam;Full+Stack+Developer+%7C+AI+%2F+ML+Enthusiast;Building+Open+Source+Projects" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,27 +21,27 @@
 
 ---
 
-## - About Me
+## About Me
 
 I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** from Bangalore, India. Currently pursuing a **B.Tech in Artificial Intelligence & Machine Learning**, I enjoy building innovative projects and contributing to the developer community.
 
 **My Interests:**
-- 🚀 Full-stack web development and scalable applications
-- 🤖 Machine Learning and Deep Learning applications
-- ☁️ Cloud technologies (AWS, Azure)
-- 🐳 DevOps and containerization
-- 💻 Open-source contribution and community building
-- 🔒 Cybersecurity and secure coding practices
+- Full-stack web development and scalable applications
+- Machine Learning and Deep Learning applications
+- Cloud technologies (AWS, Azure)
+- DevOps and containerization
+- Open-source contribution and community building
+- Cybersecurity and secure coding practices
 
 **Open To:**
-- 🤝 Collaboration on interesting projects
-- 📚 Learning and knowledge sharing
-- 🔄 Contributing to open-source initiatives
-- 💬 Technical discussions and feedback
+- Collaboration on interesting projects
+- Learning and knowledge sharing
+- Contributing to open-source initiatives
+- Technical discussions and feedback
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### **Programming Languages**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -81,10 +81,10 @@ I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** from Bangalor
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
 <details>
-<summary><b>🚗 Car Price Analysis & Prediction</b></summary>
+<summary><b> Car Price Analysis & Prediction</b></summary>
 
 Comprehensive exploratory analysis and machine learning models for predicting used car prices from structured features.
 
@@ -100,7 +100,7 @@ Comprehensive exploratory analysis and machine learning models for predicting us
 </details>
 
 <details>
-<summary><b>💳 Credit Card Risk Detection</b></summary>
+<summary><b> Credit Card Risk Detection</b></summary>
 
 Machine learning project focusing on credit risk detection using multiple data science models and comprehensive visualizations.
 
@@ -116,7 +116,7 @@ Machine learning project focusing on credit risk detection using multiple data s
 </details>
 
 <details>
-<summary><b>🍱 Food Recognition with AI</b></summary>
+<summary><b> Food Recognition with AI</b></summary>
 
 Deep learning project for food image classification and recognition using computer vision techniques.
 
@@ -131,7 +131,7 @@ Deep learning project for food image classification and recognition using comput
 </details>
 
 <details>
-<summary><b>🎨 CycleGAN for Synthetic Image Data</b></summary>
+<summary><b> CycleGAN for Synthetic Image Data</b></summary>
 
 Implementation of CycleGAN architecture for unsupervised image-to-image translation and synthetic data generation.
 
@@ -146,7 +146,7 @@ Implementation of CycleGAN architecture for unsupervised image-to-image translat
 </details>
 
 <details>
-<summary><b>🤖 ChatRaj – AI Software Engineering Collaboration Platform</b></summary>
+<summary><b> ChatRaj – AI Software Engineering Collaboration Platform</b></summary>
 
 MERN-stack application integrating AI for project management, real-time collaboration, and AI-assisted code generation.
 
@@ -163,7 +163,7 @@ MERN-stack application integrating AI for project management, real-time collabor
 </details>
 
 <details>
-<summary><b>✈️ Auryvia – AI Trip Planner</b></summary>
+<summary><b> Auryvia – AI Trip Planner</b></summary>
 
 AI-powered personalized trip planning application with dynamic itineraries based on budget, interests, and real-time conditions.
 
@@ -179,7 +179,7 @@ AI-powered personalized trip planning application with dynamic itineraries based
 </details>
 
 <details>
-<summary><b>🔬 CT Scan Processing for Pulmonary Analysis</b></summary>
+<summary><b> CT Scan Processing for Pulmonary Analysis</b></summary>
 
 Advanced medical imaging project for processing and analyzing CT scans for pulmonary disease detection.
 
@@ -194,7 +194,7 @@ Advanced medical imaging project for processing and analyzing CT scans for pulmo
 </details>
 
 <details>
-<summary><b>🎓 Few-Shot Learning with CIFAR-100</b></summary>
+<summary><b> Few-Shot Learning with CIFAR-100</b></summary>
 
 Few-shot learning implementation demonstrating transfer learning and model adaptation on the CIFAR-100 dataset.
 
@@ -210,7 +210,7 @@ Few-shot learning implementation demonstrating transfer learning and model adapt
 </details>
 
 <details>
-<summary><b>🎬 Video Frame Separator</b></summary>
+<summary><b> Video Frame Separator</b></summary>
 
 Python utility for extracting individual frames from video files with frame-by-frame processing capabilities.
 
@@ -225,7 +225,7 @@ Python utility for extracting individual frames from video files with frame-by-f
 </details>
 
 <details>
-<summary><b>👩‍💻 Women Safety Android App</b></summary>
+<summary><b> Women Safety Android App</b></summary>
 
 Mobile application focused on women's safety with emergency features and real-time assistance.
 
@@ -241,7 +241,7 @@ Mobile application focused on women's safety with emergency features and real-ti
 
 ---
 
-## 📚 Learning & Coursework Repositories
+## Learning & Coursework Repositories
 
 - **[DAA](https://github.com/Abhirajgautam28/DAA)** – Design and Analysis of Algorithms (Theory & Practice)
 - **[Data Structures & Algorithms](https://github.com/Abhirajgautam28/data-structures-and-algorithmic-thinking-with-python)** – Python implementations
@@ -250,7 +250,7 @@ Mobile application focused on women's safety with emergency features and real-ti
 
 ---
 
-## 🔐 Cybersecurity Projects
+## Cybersecurity Projects
 
 - **[Brute Force Attack](https://github.com/Abhirajgautam28/Brute-Force-Attack)** – Security vulnerability demonstration
 - **[Cross-Site Scripting (XSS) Attack](https://github.com/Abhirajgautam28/Cross-Site-Scripting-XSS-attack)** – Web security analysis
@@ -258,10 +258,10 @@ Mobile application focused on women's safety with emergency features and real-ti
 
 ---
 
-## 🌍 Face Reconstruction Project
+## Face Reconstruction Project
 
 <details>
-<summary><b>🧠 Deep Learning Framework for Face Reconstruction Under Mask</b></summary>
+<summary><b> Deep Learning Framework for Face Reconstruction Under Mask</b></summary>
 
 Advanced deep learning project for reconstructing facial features from masked faces using neural networks.
 
@@ -277,13 +277,13 @@ Advanced deep learning project for reconstructing facial features from masked fa
 
 ---
 
-## 🎮 Game Development
+## Game Development
 
 - **[GeoTerritoryGame](https://github.com/Abhirajgautam28/GeoTerritoryGame)** – Geography-based game in Kotlin
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -297,7 +297,7 @@ Advanced deep learning project for reconstructing facial features from masked fa
 
 ---
 
-## 🏅 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -307,7 +307,7 @@ Advanced deep learning project for reconstructing facial features from masked fa
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 ```yaml
 Learning:
@@ -329,7 +329,7 @@ Exploring:
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 <div align="center">
 
