@@ -287,11 +287,11 @@ Advanced deep learning project for reconstructing facial features from masked fa
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Abhirajgautam28&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=A78BFA&title_color=7C3AED)](https://github.com/Abhirajgautam28)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abhirajgautam28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=86400" />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Abhirajgautam28&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=FF6B6B&currStreakNum=7C3AED)](https://github.com/Abhirajgautam28)
+<img height="180em" src="https://streak-stats.demolab.com?user=Abhirajgautam28&theme=tokyonight&hide_border=true" />
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajgautam28&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=A78BFA&title_color=7C3AED)](https://github.com/Abhirajgautam28)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhirajgautam28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 
 </div>
 
@@ -301,7 +301,7 @@ Advanced deep learning project for reconstructing facial features from masked fa
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Abhirajgautam28&theme=tokyonight&no-frame=true&row=2&column=4)](https://github.com/Abhirajgautam28)
+<img src="https://github-profile-trophy.vercel.app/?username=Abhirajgautam28&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=2&column=4" />
 
 </div>
 
