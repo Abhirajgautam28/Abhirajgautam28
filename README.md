@@ -23,7 +23,7 @@
 
 ## About Me
 
-I'm a passionate **Full Stack Developer** and **AI/ML Enthusiast** from Bangalore, India. Currently pursuing a **B.Tech in Artificial Intelligence & Machine Learning**, I enjoy building innovative projects and contributing to the developer community.
+I am a **Data Engineer** and **AI/ML Enthusiast** from _Bangalore, India_, driven by the challenge of turning massive datasets into streamlined, accessible infrastructure. My core expertise lies in the modern data stack - crafting pipelines with **Python**, **SQL**, and **PySpark**, and architecting solutions across **GCP**, **AWS**, and **Azure**. Whether I'm configuring **Databricks** clusters or streaming with **Kafka**, I love building projects that bridge the gap between data engineering and machine learning.
 
 **My Interests:**
 - Full-stack web development and scalable applications
